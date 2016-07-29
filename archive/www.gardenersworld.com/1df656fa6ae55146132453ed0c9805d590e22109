@@ -1,0 +1,1207 @@
+
+
+
+<!doctype html>
+<!--[if lt IE 8]>      <html class="no-js lt-ie10 lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie10 lt-ie9"> <![endif]-->
+<!--[if IE 9]>         <html class="no-js lt-ie10"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html lang="en" class="no-js">
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="robots" content="index" />
+    <meta name="p:domain_verify" content="6b70311ea2f535aabca724159f1e0c5c" />
+        <base target="_top" />
+    <link rel="shortcut icon" href="//s3.gardenersworld.com/images/favicon.gif" type="image/x-icon">
+    <script>
+        (function(html) { html.className = html.className.replace(/\bno-js\b/, 'js') })(document.documentElement);
+        // Typekit
+        !function (a) { var b, c = { kitId: "jsr5qtf", scriptTimeout: 3e3, async: !0 }, d = a.documentElement, e = setTimeout(function () { d.className = d.className.replace(/\bwf-loading\b/g, "") + " wf-inactive" }, c.scriptTimeout), f = a.createElement("script"), g = !1, h = a.getElementsByTagName("script")[0]; d.className += " wf-loading", f.src = "//use.typekit.net/" + c.kitId + ".js", f.async = !0, f.onload = f.onreadystatechange = function () { if (b = this.readyState, !(g || b && "complete" != b && "loaded" != b)) { g = !0, clearTimeout(e); try { Typekit.load(c) } catch (a) { } } }, h.parentNode.insertBefore(f, h) }(document);
+    </script>
+    <link href="//s3.gardenersworld.com/Content/css/site.min.css?bust=2016.7.12" rel="stylesheet" />
+    <noscript>
+        <link href="//s3.gardenersworld.com/Content/css/icons.fallback.min.css?bust=2016.7.12" rel="stylesheet" />
+    </noscript>
+    <!-- delayed-block: CssScript -->    <!-- Template specific meta tags go here (e.g. OG) -->
+    <title>Gardening Job Checklists - December | gardenersworld.com</title>
+    <meta name="title" content="Gardening Job Checklists - December | gardenersworld.com" />
+    <meta name="description" content="Find out what to do in your garden, allotment and greenhouse in December, with our handy, printable job checklists. Expert gardening advice from BBC Gardeners' World Magazine." />
+    <meta name="keywords" content="" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Gardening Job Checklists - December | gardenersworld.com - gardenersworld.com" />
+    <meta property="og:description" content="Find out what to do in your garden, allotment and greenhouse in December, with our handy, printable job checklists. Expert gardening advice from BBC Gardeners' World Magazine." />
+    <meta property="og:url" content="http://www.gardenersworld.com/what-to-do-now/checklist/december" />
+        <meta property="og:image" content="http://image1.gardenersworld.com/image.jpg?tag=e923d3b7-ceab-4858-9809-1ffc3afd94bd" />
+    <meta property="og:site_name" name="gardenersworld.com" />
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="gardenersworld.com">
+    <meta name="twitter:creator" content="@gwmag">
+    <meta name="twitter:title" content="Gardening Job Checklists - December | gardenersworld.com">
+    <meta name="twitter:description" content="Find out what to do in your garden, allotment and greenhouse in December, with our handy, printable job checklists. Expert gardening advice from BBC Gardeners' World Magazine.">
+        <meta name="twitter:image" content="http://image1.gardenersworld.com/image.jpg?tag=e923d3b7-ceab-4858-9809-1ffc3afd94bd">
+
+
+    
+
+    <!-- Template specific meta tags go here (e.g. OG) -->
+    <title>Gardening Job Checklists - December | gardenersworld.com</title>
+    <meta name="title" content="Gardening Job Checklists - December | gardenersworld.com" />
+    <meta name="description" content="Find out what to do in your garden, allotment and greenhouse in December, with our handy, printable job checklists. Expert gardening advice from BBC Gardeners' World Magazine." />
+    <meta name="keywords" content="" />
+
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Gardening Job Checklists - December | gardenersworld.com" />
+    <meta property="og:description" content="Find out what to do in your garden, allotment and greenhouse in December, with our handy, printable job checklists. Expert gardening advice from BBC Gardeners' World Magazine." />
+    <meta property="og:url" content="http://www.gardenersworld.com/what-to-do-now/checklist/december/" />
+    <meta property="og:site_name" name="Gardeners' World" />
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="gardenersworld.com">
+    
+    <meta name="twitter:title" content="Gardening Job Checklists - December | gardenersworld.com">
+    <meta name="twitter:description" content="Find out what to do in your garden, allotment and greenhouse in December, with our handy, printable job checklists. Expert gardening advice from BBC Gardeners' World Magazine.">
+
+    <link rel="canonical" href="http://www.gardenersworld.com/what-to-do-now/checklist/december/" />
+
+</head>
+<body id="top" data-pageinfo='{"channel":"checklist","cat":"checklist","subcat":"misc","configuration":"live","url":"http://www.gardenersworld.com/what-to-do-now/checklist/december/","unitName":"/4817/P4681.gardenersworld.com/checklist/checklist"}' class="">
+
+
+
+
+<header class="header-container site-header ">
+    <div class="site-header__menu-button">
+        <a href="javascript:;" class="outline-button js-nav-button">Menu</a>
+    </div>
+    <div class="site-header__secondary">
+<!-- Weather Module -->
+
+<div class="header-account">
+    <a href="javascript:;"
+       class="outline-button header-account__button header-account__button--login button js-remodal-button js-login-button"
+       data-remodal-target="modalForms"
+       data-remodal-hash="login"
+       data-content="{ tabs: [{tabTitle: 'Log in', tabUrl: '/user/user/signin'}, {tabTitle: 'Join us', tabUrl: '/user/user/join'}], defaultTabIndex: 0 }"
+       data-remodal-options="hashTracking: false, closeOnEscape: false">Log in</a>
+
+    <a href="javascript:;"
+       class="outline-button header-account__button header-account__button--join button js-remodal-button js-joinus-button"
+       data-remodal-target="modalForms"
+       data-remodal-hash="joinus"
+       data-content="{ tabs: [{tabTitle: 'Log in', tabUrl: '/user/user/signin'}, {tabTitle: 'Join us', tabUrl: '/user/user/join'}], defaultTabIndex: 1 }"
+       data-remodal-options="hashTracking: false, closeOnEscape: false">Join us</a>
+    
+    <a href="/user/user/logout/" class="outline-button header-account__button header-account__button--logout button">Logout</a>
+</div>
+
+    </div>
+    <div class="site-header__primary">
+
+<a href="/" class="header-logo icon--logo-gw-white">Gardeners' World <span class="header-logo__tagline">from the team at Gardeners' World Magazine</span></a>
+
+
+
+
+
+
+<form action="/search/" method="post" class="search search--header ">
+    <input name="searchTerms" type="search" class="search__input" placeholder="Search the site" />
+    <input type="submit" value="Search" class="search__button icon--misc-search-black" />
+</form>
+    </div>
+    <section>
+
+
+
+
+
+
+
+
+
+<nav class="main-nav  ">
+    <ul class="main-nav__list js-nav-list">
+        <li class="main-nav__back-link-item">
+            <a href="javascript:;" class="main-nav__back-link js-nav-back">
+                <i class="main-nav__arrow icon--arrow-left-white"></i>
+                Back
+            </a>
+        </li>
+                <li class="main-nav__item ">
+                    <a class="main-nav__link main-nav__link--home " href="/">
+                        Home
+                    </a>
+                </li>
+                <li class="main-nav__item ">
+                    <a class="main-nav__link main-nav__link--how-to js-nav-primary" href="/how-to/">
+                        How to
+                            <i class="main-nav__arrow icon--arrow-right-white"></i>
+                    </a>
+    <ul class="main-nav__sub-nav js-nav-secondary-level">
+                <li class="main-nav__sub-nav__item">
+                    <a href="/how-to" class="main-nav__sub-nav__link">How to</a>
+                </li>
+                <li class="main-nav__sub-nav__item">
+                    <a href="/how-to/grow-plants/" class="main-nav__sub-nav__link">Grow plants</a>
+                </li>
+                <li class="main-nav__sub-nav__item">
+                    <a href="/how-to/diy/" class="main-nav__sub-nav__link">DIY</a>
+                </li>
+                <li class="main-nav__sub-nav__item">
+                    <a href="/how-to/maintain-the-garden/" class="main-nav__sub-nav__link">Maintain the garden</a>
+                </li>
+                <li class="main-nav__sub-nav__item">
+                    <a href="/how-to/solve-problems/" class="main-nav__sub-nav__link">Solve problems</a>
+                </li>
+                <li class="main-nav__sub-nav__item">
+                    <a href="/how-to/choose-tools/" class="main-nav__sub-nav__link">Choose tools</a>
+                </li>
+    </ul>
+                </li>
+                <li class="main-nav__item ">
+                    <a class="main-nav__link main-nav__link--plants js-nav-primary" href="/plants/">
+                        Plants
+                            <i class="main-nav__arrow icon--arrow-right-white"></i>
+                    </a>
+    <ul class="main-nav__sub-nav js-nav-secondary-level">
+                <li class="main-nav__sub-nav__item">
+                    <a href="/plants" class="main-nav__sub-nav__link">Plants</a>
+                </li>
+                <li class="main-nav__sub-nav__item">
+                    <a href="/plants/plant-inspiration/" class="main-nav__sub-nav__link">Plant inspiration</a>
+                </li>
+                <li class="main-nav__sub-nav__item">
+                    <a href="/plant-finder/" class="main-nav__sub-nav__link">Plant finder</a>
+                </li>
+    </ul>
+                </li>
+                <li class="main-nav__item ">
+                    <a class="main-nav__link main-nav__link--forum js-nav-primary" href="/forum/">
+                        Forum
+                            <i class="main-nav__arrow icon--arrow-right-white"></i>
+                    </a>
+    <ul class="main-nav__sub-nav js-nav-secondary-level">
+                <li class="main-nav__sub-nav__item">
+                    <a href="/forum" class="main-nav__sub-nav__link">Forum</a>
+                </li>
+                <li class="main-nav__sub-nav__item">
+                    <a href="/forum/latest-posts/" class="main-nav__sub-nav__link">Latest posts</a>
+                </li>
+                <li class="main-nav__sub-nav__item">
+                    <a href="/forum/new-discussions/" class="main-nav__sub-nav__link">New threads</a>
+                </li>
+                <li class="main-nav__sub-nav__item">
+                    <a href="/forum/followed-threads/" class="main-nav__sub-nav__link">Followed threads</a>
+                </li>
+    </ul>
+                </li>
+                <li class="main-nav__item ">
+                    <a class="main-nav__link main-nav__link--offers-&amp;-comps js-nav-primary" href="/offers-and-competitions/">
+                        Offers &amp; Comps
+                            <i class="main-nav__arrow icon--arrow-right-white"></i>
+                    </a>
+    <ul class="main-nav__sub-nav js-nav-secondary-level">
+                <li class="main-nav__sub-nav__item">
+                    <a href="/offers-and-competitions" class="main-nav__sub-nav__link">Offers &amp; Competitions</a>
+                </li>
+                <li class="main-nav__sub-nav__item">
+                    <a href="/offers/" class="main-nav__sub-nav__link">Offers</a>
+                </li>
+                <li class="main-nav__sub-nav__item">
+                    <a href="/win/" class="main-nav__sub-nav__link">Competitions</a>
+                </li>
+    </ul>
+                </li>
+                <li class="main-nav__item ">
+                    <a class="main-nav__link main-nav__link--2-for-1-gardens js-nav-primary" href="/2-for-1-gardens/">
+                        2 for 1 gardens
+                            <i class="main-nav__arrow icon--arrow-right-white"></i>
+                    </a>
+    <ul class="main-nav__sub-nav js-nav-secondary-level">
+                <li class="main-nav__sub-nav__item">
+                    <a href="/-for-1-gardens" class="main-nav__sub-nav__link">2 for 1 gardens</a>
+                </li>
+                <li class="main-nav__sub-nav__item">
+                    <a href="/-for-1-gardens/about/" class="main-nav__sub-nav__link">About</a>
+                </li>
+                <li class="main-nav__sub-nav__item">
+                    <a href="/-for-1-gardens/order-now/" class="main-nav__sub-nav__link">Buy extra cards</a>
+                </li>
+    </ul>
+                </li>
+                <li class="main-nav__item ">
+                    <a class="main-nav__link main-nav__link--subscribe " href="/subscribe/">
+                        Subscribe
+                    </a>
+                </li>
+                <li class="main-nav__item ">
+                    <a class="main-nav__link main-nav__link--secret-garden " href="/secret-garden/">
+                        Secret Garden
+                    </a>
+                </li>
+    </ul>
+</nav>
+    </section>
+</header>
+
+    <div class="ad-container js-sticky-banner-container">
+        <div class="sticky-banner js-sticky-banner">
+            <div id='div-gpt-ad-leaderboard_top' class='dfp-ad' data-adSizes='[[[0,0],[[320,50],[300,50]]],[[767,200],[728,90]],[[970,400],[[970,250],[728,90]]]]' data-adTargets='{"pos":"TOP"}'></div>
+        </div>
+    </div>
+
+    <main role="main">
+        
+
+
+
+<article class="layout-checklist">
+
+    <div class="body-container body-background">
+
+        
+        <div class="layout-checklist__crumbs">
+            
+
+
+    <div class="crumbs">
+        <ul class="crumbs__list">
+
+                        <li class="crumbs__item crumbs__item--up">
+                            <a href="/" class="crumbs__link ">
+                                <i class="crumbs__icon icon--arrow-back-dark"></i>
+                                <span class="crumbs__text">Home</span>
+                            </a>
+                        </li>
+                    <li class="crumbs__item">
+                        <span class="crumbs__current-page"> December</span>
+                    </li>
+        </ul>
+    </div>
+
+        </div>
+
+        
+        
+        <div class="layout-checklist__lead-article">
+    <div class="lead-article">
+
+        <a href="/how-to/grow-plants/how-to-plant-a-bare-root-rose2/">
+
+            <div class="img-container">
+                <img data-sizes="100vw"
+                        data-srcset="http://image1.gardenersworld.com:80/image.jpg?tag=e923d3b7-ceab-4858-9809-1ffc3afd94bd&amp;width=320&amp;quality=80 320w,
+                        http://image1.gardenersworld.com:80/image.jpg?tag=e923d3b7-ceab-4858-9809-1ffc3afd94bd&amp;width=768&amp;quality=80 768w,
+                        http://image1.gardenersworld.com:80/image.jpg?tag=e923d3b7-ceab-4858-9809-1ffc3afd94bd&amp;width=1024&amp;quality=80 1024w,
+                        http://image1.gardenersworld.com:80/image.jpg?tag=e923d3b7-ceab-4858-9809-1ffc3afd94bd&amp;width=1536&amp;quality=40 1536w,
+                        http://image1.gardenersworld.com:80/image.jpg?tag=e923d3b7-ceab-4858-9809-1ffc3afd94bd&amp;width=2048&amp;quality=40 2048w"
+                        src="http://image1.gardenersworld.com:80/image.jpg?tag=e923d3b7-ceab-4858-9809-1ffc3afd94bd&amp;width=200&amp;quality=40"
+                        title="68636"
+                        class="img-responsive lazyload" />
+            </div>
+            <noscript>
+                <img src="http://image1.gardenersworld.com:80/image.jpg?tag=e923d3b7-ceab-4858-9809-1ffc3afd94bd&amp;width=1024&amp;quality=80" title="68636" class="img-responsive" />
+            </noscript>
+
+        </a>
+
+            <h1 class="h1 h1-plus lead-article__heading">
+                <a href="/how-to/grow-plants/how-to-plant-a-bare-root-rose2/" class="lead-article__heading-link">
+                    <span class="lead-article__heading-blur" style="background-image: linear-gradient(to bottom, rgba(0,0,0,0) 10%, rgba(0,0,0,.3), 60%, rgba(0,0,0,.7) 90%, rgba(0,0,0,1) 100%), url(http://image1.gardenersworld.com:80/image.jpg?tag=e923d3b7-ceab-4858-9809-1ffc3afd94bd&amp;width=200&amp;quality=40);"></span>
+                    <span class="lead-article__heading-title">How to plant a bare-root rose</span>
+                </a>
+            </h1>
+
+    </div>
+
+        </div>
+      
+
+    </div>
+
+    <div class="clearfix body-container body-background">
+        
+        <div class="layout-checklist__calendar">
+
+
+
+
+<nav class="month-nav month-nav--is-compact">
+
+    <div class="month-nav__prev">
+            <a href="/what-to-do-now/checklist/november/" class="month-nav__prev-link icon--arrow-back-dark">Last month</a>
+    </div>
+
+    <div class="month-nav__current">
+
+            <p class="month-nav__label">What to do in</p>
+
+        <h1 class="h1  month-nav__current-month">December</h1>
+    </div>
+
+    <div class="month-nav__next">
+            <a href="/what-to-do-now/checklist/january/" class="month-nav__next-link icon--arrow-forward-dark">Next month</a>
+    </div>
+</nav>
+        </div>
+    </div>
+
+    <div class="body-container body-background">
+        
+        <div class="layout-checklist__overview">
+                <h2 class="h2">This month in your garden and greenhouse</h2>
+
+        </div>
+    </div>
+
+    
+
+    <div class="body-container body-background">
+            
+            
+            <div class="clearfix layout-checklist__social-share">
+
+
+
+
+<div class="social-share social-share--is-printable clearfix">
+    <div class="social-share__item social-share__item--facebook">
+        <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.gardenersworld.com%2Fwhat-to-do-now%2Fchecklist%2Fdecember" class="social-share__link js-social-popup js-social-share" target="_blank" data-action="Facebook">
+            <i class="social-share__icon icon icon--social-facebook-white"></i>
+            <span class="social-share__label">Share on Facebook</span>
+        </a>
+    </div>
+    <div class="social-share__item social-share__item--twitter">
+        <a href="https://twitter.com/intent/tweet?text=Gardening%20Job%20Checklists%20-%20December%20%7C%20gardenersworld.com%0A%0A&amp;url=http://bit.ly/1Tjf5Lp" class="social-share__link js-social-popup js-social-share" data-action="Twitter">
+            <i class="social-share__icon icon icon--social-twitter-white"></i>
+            <span class="social-share__label">Share on Twitter</span>
+        </a>
+    </div>
+    <div class="social-share__item social-share__item--pinterest">
+        <a href="http://www.pinterest.com/pin/create%2Fbutton/?url=http%3A%2F%2Fwww.gardenersworld.com%2Fwhat-to-do-now%2Fchecklist%2Fdecember&amp;media=http%3A%2F%2Fimage1.gardenersworld.com%2Fimage.jpg%3Ftag%3De923d3b7-ceab-4858-9809-1ffc3afd94bd&amp;description=Find out what to do in your garden, allotment and greenhouse in December, with our handy, printable job checklists. Expert gardening advice from BBC Gardeners&#39; World Magazine." class="social-share__link js-social-popup js-social-share" target="_blank" data-action="Pinterest">
+            <i class="social-share__icon icon icon--social-pinterest-white"></i>
+            <span class="social-share__label">Share on Pinterest</span>
+        </a>
+    </div>
+    <div class="social-share__item social-share__item--email">
+        <a href="mailto:?subject=Something of interest from gardenersworld.com&amp;body=I thought this might interest you...%0D%0A%0D%0AGardening Job Checklists - December | gardenersworld.com - gardenersworld.com%0D%0A%0D%0AFind out what to do in your garden, allotment and greenhouse in December, with our handy, printable job checklists. Expert gardening advice from BBC Gardeners&#39; World Magazine.%0D%0A%0D%0Ahttp%3A%2F%2Fwww.gardenersworld.com%2Fwhat-to-do-now%2Fchecklist%2Fdecember" class="social-share__link js-social-share" data-action="email">
+            <i class="social-share__icon icon icon--social-email-white"></i>
+            <span class="social-share__label">Share by email</span>
+        </a>
+    </div>
+        <div class="social-share__item social-share__item--print">
+            <a href="/what-to-do-now/checklist/december/print" target="_blank" class="social-share__link">
+                <i class="social-share__icon icon icon--printer-white"></i>
+                <span class="social-share__label">Print checklists</span>
+            </a>
+        </div>
+</div>
+
+            </div>
+            
+            <div class="layout-checklist__row js-page-wrapper clearfix">
+
+                <div class="layout-checklist__content js-ads-content">
+
+                    
+                        <div class="layout-checklist__checklist layou t-checklist__checklist--ad">
+
+
+    <div id="flowers" class="checklist js-checklist">
+        <div class="checklist__header clearfix">
+            <h2 class="h2 checklist__title ">Flowers</h2>
+                <a href="#flowers" class="h4 checklist__expand js-checklist-expand js-checklist-header js-smooth-scroll">
+                    <span class="checklist__expand-open">Expand +</span> 
+                    <span class="checklist__expand-close">Collapse -</span>
+                </a>
+        </div>
+
+        <ul class="checklist__list js-checklist-list">
+
+                    <li class="checklist__item">
+Protect terracotta pots from cracking in freezing weather by bringing them indoors or wrapping in bubble polythene                    </li>
+                    <li class="checklist__item">
+                            <a href="http://gardenersworld.com/how-to/maintain-the-garden/how-to-collect-autumn-leaves" class="checklist__link">Rake up accumulated fallen leaves in borders that could be harbouring slugs and other pests</a>
+                    </li>
+                    <li class="checklist__item">
+                            <a href="http://gardenersworld.com/how-to/grow-plants/how-to-plant-a-bare-root-rose2" class="checklist__link">Plant bare-root roses and other deciduous shrubs, plus ornamental trees</a>
+                    </li>
+                    <li class="checklist__item">
+                            <a href="http://gardenersworld.com/how-to/diy/how-to-make-pine-cone-bird-feeders" class="checklist__link">Hang bird feeders near roses to attract hungry birds that will also pick off any overwintering pests</a>
+                    </li>
+                    <li class="checklist__item">
+                            <a href="http://gardenersworld.com/how-to/diy/how-to-make-a-christmas-wreath2" class="checklist__link">Cut stems of berried winter shrubs, seasonal flowers and evergreen leaves for festive decorations</a>
+                    </li>
+                    <li class="checklist__item">
+Move plants in pots to a sheltered spot if conditions turn very cold, as their roots are more exposed to the elements                    </li>
+                    <li class="checklist__item">
+Pile straw or bracken around the base of tender shrubs and climbers to protect them from falling temperatures                    </li>
+                    <li class="checklist__item">
+Plant fragrant winter shrubs in pots on the doorsteps, including chimonanthus, sarcococca and Daphne odora                    </li>
+                    <li class="checklist__item">
+                            <a href="/plants/features/techniques/what-to-prune-in-winter/4645.html" class="checklist__link">Prune climbing roses between now and February</a>
+                    </li>
+                    <li class="checklist__item">
+Hard prune overgrown shrubs and hedges while they&#39;re dormant                    </li>
+                    <li class="checklist__item">
+Check stored bulbs and corms regularly for any signs of rot                    </li>
+
+        </ul>
+        
+            <a href="#flowers" class="checklist__expand-footer js-checklist-expand js-smooth-scroll">
+                <i class="checklist__expand-footer-icon icon--arrow-down-dark js-checklist-footer">Expand the Flowers checklist</i>
+            </a>
+
+    </div>
+
+                        </div>
+                    <div class="layout-checklist__ad js-top-ad-container">
+
+<div class="ad-container__mpu js-sticky-top-mpu">
+
+    <p class="ad-container__label">Advertisement</p>
+
+    <div id='div-gpt-ad-300x250_top' class='dfp-ad' data-adSizes='[[[0,0],[300,250]],[[767,200],[[300,250],[300,600]]]]' data-adTargets='{"pos":["top","checklist_top"]}'></div>
+</div>
+                    </div>
+
+                    
+                            <div class="layout-checklist__checklist layout-checklist__checklist--ad">
+
+
+    <div id="fruit-and-veg" class="checklist js-checklist">
+        <div class="checklist__header clearfix">
+            <h2 class="h2 checklist__title ">Fruit and veg</h2>
+                <a href="#fruit-and-veg" class="h4 checklist__expand js-checklist-expand js-checklist-header js-smooth-scroll">
+                    <span class="checklist__expand-open">Expand +</span> 
+                    <span class="checklist__expand-close">Collapse -</span>
+                </a>
+        </div>
+
+        <ul class="checklist__list js-checklist-list">
+
+                    <li class="checklist__item">
+Place straw around the base of parsnips to prevent the soil freezing, which can make harvesting difficult                    </li>
+                    <li class="checklist__item">
+Plant thornless blackberries, such as &#39;Loch Ness&#39;, for easy pickings of large, sweet, juicy fruits                    </li>
+                    <li class="checklist__item">
+Winter prune large fruit trees to control their shape and size, and to increase their productivity                    </li>
+                    <li class="checklist__item">
+Plant fruit trees trained as cordons, fans or espaliers to make good use of limited space                    </li>
+                    <li class="checklist__item">
+Start to plan next year&#39;s crops and order seeds                    </li>
+                    <li class="checklist__item">
+                            <a href="http://gardenersworld.com/how-to/maintain-the-garden/how-to-apply-mulch" class="checklist__link">Tidy up raspberry and blackberry beds - weed and mulch with compost, then tie new stems to support wires</a>
+                    </li>
+                    <li class="checklist__item">
+Lift and divide large clumps of rhubarb, replanting the outer sections into soil enriched with well-rotted manure                    </li>
+                    <li class="checklist__item">
+Keep kale, winter cabbages and other brassicas covered with netting to protect them from hungry pigeons                    </li>
+                    <li class="checklist__item">
+Finish clearing old crops and debris from the veg plot, but only compost healthy material                     </li>
+                    <li class="checklist__item">
+Remove yellowed leaves on brassicas, so fungal diseases such as grey mould and downy mildew don&#39;t take hold                    </li>
+                    <li class="checklist__item">
+Make sure Brussels sprouts don&#39;t topple over in strong winds - tie to a cane for support and earth up the stems                    </li>
+                    <li class="checklist__item">
+                            <a href="/plants/features/techniques/10-plants-to-prune-in-the-dormant-season/5101.html" class="checklist__link">Prune grapevines, cutting back side-branches to one or two buds from the main stem</a>
+                    </li>
+
+        </ul>
+        
+            <a href="#fruit-and-veg" class="checklist__expand-footer js-checklist-expand js-smooth-scroll">
+                <i class="checklist__expand-footer-icon icon--arrow-down-dark js-checklist-footer">Expand the Fruit and veg checklist</i>
+            </a>
+
+    </div>
+
+                            </div>
+                            <div class="layout-checklist__checklist layout-checklist__checklist--ad">
+
+
+    <div id="greenhouse" class="checklist js-checklist">
+        <div class="checklist__header clearfix">
+            <h2 class="h2 checklist__title ">Greenhouse</h2>
+                <a href="#greenhouse" class="h4 checklist__expand js-checklist-expand js-checklist-header js-smooth-scroll">
+                    <span class="checklist__expand-open">Expand +</span> 
+                    <span class="checklist__expand-close">Collapse -</span>
+                </a>
+        </div>
+
+        <ul class="checklist__list js-checklist-list">
+
+                    <li class="checklist__item">
+                            <a href="http://gardenersworld.com/how-to/grow-plants/how-to-force-rhubarb" class="checklist__link">Pot up a clump of rhubarb and place under a large bin to force an early crop of sweet stems</a>
+                    </li>
+                    <li class="checklist__item">
+Pick faded leaves and dead flowers regularly from plants overwintering in the greenhouse, such as pelargoniums                    </li>
+                    <li class="checklist__item">
+Pinch out the tips of autumn-sown sweet peas to encourage bushier growth                    </li>
+                    <li class="checklist__item">
+                            <a href="http://gardenersworld.com/how-to/grow-plants/how-to-care-for-azaleas" class="checklist__link">Deadhead indoor azaleas, water regularly and provide cool conditions, away from radiators, to prolong flowering</a>
+                    </li>
+                    <li class="checklist__item">
+Monitor greenhouse temperatures with a max-min thermometer to ensure heaters are working efficiently                    </li>
+                    <li class="checklist__item">
+Bring hyacinths growing in the greenhouse into your home to flower, placing in a cool, bright spot                     </li>
+                    <li class="checklist__item">
+Water plants sparingly to keep the greenhouse as dry as possible, which should reduce outbreaks of disease                    </li>
+                    <li class="checklist__item">
+Prune greenhouse grapevines while dormant                    </li>
+                    <li class="checklist__item">
+                            <a href="/plants/features/techniques/winter-care-for-house-plants/3582.html" class="checklist__link">Move houseplants onto a sunny windowsill over the winter, to get as much light as possible during the shorter days </a>
+                    </li>
+                    <li class="checklist__item">
+Water florists&#39; cyclamen (Cyclamen persicum) from below, and deadhead regularly to encourage more blooms                    </li>
+                    <li class="checklist__item">
+                            <a href="http://gardenersworld.com/how-to/solve-problems/red-spider-mites" class="checklist__link">Check overwintering plants in the greenhouse for red spider mite and other pests, and treat if necessary</a>
+                    </li>
+                    <li class="checklist__item">
+                            <a href="http://gardenersworld.com/how-to/grow-plants/how-to-grow-cacti-from-seed" class="checklist__link">Sow cacti seeds into moist, loam-based compost and place in a propagator or on a warm windowsill</a>
+                    </li>
+                    <li class="checklist__item">
+                            <a href="/plants/features/flowers/three-tips-for-growing-amaryllis/5658.html" class="checklist__link">Plant hippeastrum (amaryllis) bulbs for spectacular flowers in about eight weeks</a>
+                    </li>
+
+        </ul>
+        
+            <a href="#greenhouse" class="checklist__expand-footer js-checklist-expand js-smooth-scroll">
+                <i class="checklist__expand-footer-icon icon--arrow-down-dark js-checklist-footer">Expand the Greenhouse checklist</i>
+            </a>
+
+    </div>
+
+                            </div>
+                            <div class="layout-checklist__checklist layout-checklist__checklist--ad">
+
+
+    <div id="garden-maintenance" class="checklist js-checklist">
+        <div class="checklist__header clearfix">
+            <h2 class="h2 checklist__title ">Garden maintenance</h2>
+                <a href="#garden-maintenance" class="h4 checklist__expand js-checklist-expand js-checklist-header js-smooth-scroll">
+                    <span class="checklist__expand-open">Expand +</span> 
+                    <span class="checklist__expand-close">Collapse -</span>
+                </a>
+        </div>
+
+        <ul class="checklist__list js-checklist-list">
+
+                    <li class="checklist__item">
+Put out fresh water for birds every day during frosty weather                    </li>
+                    <li class="checklist__item">
+Bring all watering equipment indoors, including hoses and sprinklers, so they don&#39;t freeze and split                     </li>
+                    <li class="checklist__item">
+Scoop fallen leaves and debris from ponds, leave on the side so pondlife can escape, then add to the compost bin                    </li>
+                    <li class="checklist__item">
+Stand your Christmas tree in a bucket of water in a sheltered spot outdoors until it&#39;s time to bring it indoors                    </li>
+                    <li class="checklist__item">
+                            <a href="http://gardenersworld.com/how-to/maintain-the-garden/how-to-clean-and-repair-your-garden-shed" class="checklist__link">Clear out your shed, and organise and clean your tools</a>
+                    </li>
+                    <li class="checklist__item">
+                            <a href="http://gardenersworld.com/how-to/maintain-the-garden/how-to-dig-beds-in-winter" class="checklist__link">Work off Christmas excesses by digging over bare areas of ground, incorporating garden compost</a>
+                    </li>
+                    <li class="checklist__item">
+Check tree ties and stakes are firm enough to stand up to winter storms                    </li>
+                    <li class="checklist__item">
+Prune blackcurrants once dormant, removing about a quarter of the old stems                    </li>
+                    <li class="checklist__item">
+Order well-rotted manure or mushroom compost to dig in over winter or spread over bare soil for worms to take down                    </li>
+                    <li class="checklist__item">
+Order summer-flowering bulbs such as lilies and gladioli                    </li>
+
+        </ul>
+        
+            <a href="#garden-maintenance" class="checklist__expand-footer js-checklist-expand js-smooth-scroll">
+                <i class="checklist__expand-footer-icon icon--arrow-down-dark js-checklist-footer">Expand the Garden maintenance checklist</i>
+            </a>
+
+    </div>
+
+                            </div>
+                    <div class="layout-checklist__ad js-bottom-ad-container">
+
+<div class="ad-container__mpu ">
+
+    <p class="ad-container__label">Advertisement</p>
+
+    <div id='div-gpt-ad-300x250_bottom' class='dfp-ad' data-adSizes='[[[0,0],[300,250]]]' data-adTargets='{"pos":["bottom","checklist_bottom"]}'></div>
+</div>
+                    </div>
+
+                </div>
+
+                <div class="layout-checklist__right-col js-ads-sidebar">
+
+                    
+                    <div class="layout-checklist__ad js-top-ad-container"></div>
+                    <div class="layout-checklist__ad js-bottom-ad-container"></div>
+
+                </div>
+
+            </div>
+        </div>
+
+    <div class="clearfix fluid-container body-background">
+
+        
+        
+
+        <div class="layout-checklist__offers">
+            <div class="body-container body-background">
+                
+                <div class="clearfix layout-channels__row">
+
+                    <h2 class="h1 layout-channels__related-heading">Related offers</h2>
+
+                        <div class="col-xs-12 col-sm-4 layout-channels__card-container">
+
+
+
+<div class="card standard-card  js-card">
+
+    <div class="standard-card__image standard-card__image--gradient img-container">
+
+            <p class="flag flag--offer icon--flag-offer">Offer</p>
+
+        
+            <a href="http://www.gardenersworld.com/mediterranean-cruise/" target="_blank" class="js-offer-link ">
+                    <img data-sizes="100vw"
+                            data-srcset="http://image1.gardenersworld.com:80/image.jpg?tag=0c439bf7-9f1f-44f8-ad93-d6c9b55c759f&amp;width=320&amp;quality=80 320w,
+                    http://image1.gardenersworld.com:80/image.jpg?tag=0c439bf7-9f1f-44f8-ad93-d6c9b55c759f&amp;width=768&amp;quality=80 768w,
+                    http://image1.gardenersworld.com:80/image.jpg?tag=0c439bf7-9f1f-44f8-ad93-d6c9b55c759f&amp;width=1024&amp;quality=80 1024w"
+                            src="http://image1.gardenersworld.com:80/image.jpg?tag=0c439bf7-9f1f-44f8-ad93-d6c9b55c759f&amp;width=200&amp;quality=40"
+                            class="img-responsive lazyload" />
+            </a>
+            <noscript>
+                <img src="http://image1.gardenersworld.com:80/image.jpg?tag=0c439bf7-9f1f-44f8-ad93-d6c9b55c759f&amp;width=1024&amp;quality=80" class="img-responsive" />
+            </noscript>
+
+    </div>
+
+    <div class="standard-card__container">
+
+            <div class="standard-card__logo-container">
+                <a href="http://www.gardenersworld.com/mediterranean-cruise/" class="standard-card__logo-link js-offer-link " target="_blank">
+                    <img data-sizes="50vw"
+                         data-srcset="http://image1.gardenersworld.com:80/image.png?tag=557eef81-01ac-45d7-8fa5-6ec5c381d882&amp;width=320&amp;quality=80 320w,
+                            http://image1.gardenersworld.com:80/image.png?tag=557eef81-01ac-45d7-8fa5-6ec5c381d882&amp;width=640&amp;quality=80 768w"
+                         src="http://image1.gardenersworld.com:80/image.png?tag=557eef81-01ac-45d7-8fa5-6ec5c381d882&amp;width=200&amp;quality=40"
+                         class="img-responsive lazyload standard-card__logo-image" />
+                </a>
+            </div>
+
+        <h2 class="h2  standard-card__heading">
+            <a href="http://www.gardenersworld.com/mediterranean-cruise/" class="js-offer-link " target="_blank">
+                Luxury gardeners' cruise
+            </a>
+        </h2>
+
+        <span class="standard-card__divide "></span>
+
+        <p class="body-copy  card__body-copy">Book your space on a special 7-night all-inclusive cruise, visiting some of the Mediterranean’s best gardens, onboard the 6-star ultra-luxurious Seven Seas Explorer.</p>        
+
+
+            <a href="http://www.gardenersworld.com/mediterranean-cruise/" class="standard-card__cta-button  js-offer-link " target="_blank">Order now</a>
+        
+    </div>
+</div>
+
+                        </div>
+                        <div class="col-xs-12 col-sm-4 layout-channels__card-container">
+
+
+
+<div class="card standard-card  js-card">
+
+    <div class="standard-card__image standard-card__image--gradient img-container">
+
+            <p class="flag flag--free-postage icon--flag-free-postage">FREE P&amp;P</p>
+
+        
+            <a href="http://www.hayloft-plants.co.uk/rogw.html?cid=ROGW" target="_blank" class="js-offer-link ">
+                    <img data-sizes="100vw"
+                            data-srcset="http://image2.gardenersworld.com:80/image.jpg?tag=06fc1ff3-b7db-40ee-8a29-cae5f042ae51&amp;width=320&amp;quality=80 320w,
+                    http://image2.gardenersworld.com:80/image.jpg?tag=06fc1ff3-b7db-40ee-8a29-cae5f042ae51&amp;width=768&amp;quality=80 768w,
+                    http://image2.gardenersworld.com:80/image.jpg?tag=06fc1ff3-b7db-40ee-8a29-cae5f042ae51&amp;width=1024&amp;quality=80 1024w"
+                            src="http://image2.gardenersworld.com:80/image.jpg?tag=06fc1ff3-b7db-40ee-8a29-cae5f042ae51&amp;width=200&amp;quality=40"
+                            class="img-responsive lazyload" />
+            </a>
+            <noscript>
+                <img src="http://image2.gardenersworld.com:80/image.jpg?tag=06fc1ff3-b7db-40ee-8a29-cae5f042ae51&amp;width=1024&amp;quality=80" class="img-responsive" />
+            </noscript>
+
+    </div>
+
+    <div class="standard-card__container">
+
+            <div class="standard-card__logo-container">
+                <a href="http://www.hayloft-plants.co.uk/rogw.html?cid=ROGW" class="standard-card__logo-link js-offer-link " target="_blank">
+                    <img data-sizes="50vw"
+                         data-srcset="http://image1.gardenersworld.com:80/image.png?tag=569628e8-9734-4078-a897-485822c5cf3c&amp;width=320&amp;quality=80 320w,
+                            http://image1.gardenersworld.com:80/image.png?tag=569628e8-9734-4078-a897-485822c5cf3c&amp;width=640&amp;quality=80 768w"
+                         src="http://image1.gardenersworld.com:80/image.png?tag=569628e8-9734-4078-a897-485822c5cf3c&amp;width=200&amp;quality=40"
+                         class="img-responsive lazyload standard-card__logo-image" />
+                </a>
+            </div>
+
+        <h2 class="h2  standard-card__heading">
+            <a href="http://www.hayloft-plants.co.uk/rogw.html?cid=ROGW" class="js-offer-link " target="_blank">
+                Free p&p at Hayloft
+            </a>
+        </h2>
+
+        <span class="standard-card__divide "></span>
+
+        <p class="body-copy  card__body-copy">Enjoy free p&p, worth £4.95, on a selection of beautiful and unusual plants at Hayloft. You'll also receive a free pack of freesia bulbs (worth £12) with your order.</p>        
+
+            <p class="subheading  standard-card__subheading">Use code: already applied</p>
+
+            <a href="http://www.hayloft-plants.co.uk/rogw.html?cid=ROGW" class="standard-card__cta-button  js-offer-link " target="_blank">Order now</a>
+        
+    </div>
+</div>
+
+                        </div>
+                        <div class="col-xs-12 col-sm-4 layout-channels__card-container">
+
+
+
+<div class="card standard-card  js-card">
+
+    <div class="standard-card__image standard-card__image--gradient img-container">
+
+            <p class="flag flag--offer icon--flag-offer">Offer</p>
+
+        
+            <a href="https://www.newmarket.travel/Details.asp?dlc=11254&amp;pid=167&amp;WS=1&amp;sMnem=AIRHOLS&amp;gMnem=UKIRELA&amp;pCat=SCO&amp;fNPC=GAW" target="_blank" class="js-offer-link ">
+                    <img data-sizes="100vw"
+                            data-srcset="http://image1.gardenersworld.com:80/image.jpg?tag=197afbf6-d3a8-406d-8124-33cf793c0856&amp;width=320&amp;quality=80 320w,
+                    http://image1.gardenersworld.com:80/image.jpg?tag=197afbf6-d3a8-406d-8124-33cf793c0856&amp;width=768&amp;quality=80 768w,
+                    http://image1.gardenersworld.com:80/image.jpg?tag=197afbf6-d3a8-406d-8124-33cf793c0856&amp;width=1024&amp;quality=80 1024w"
+                            src="http://image1.gardenersworld.com:80/image.jpg?tag=197afbf6-d3a8-406d-8124-33cf793c0856&amp;width=200&amp;quality=40"
+                            class="img-responsive lazyload" />
+            </a>
+            <noscript>
+                <img src="http://image1.gardenersworld.com:80/image.jpg?tag=197afbf6-d3a8-406d-8124-33cf793c0856&amp;width=1024&amp;quality=80" class="img-responsive" />
+            </noscript>
+
+    </div>
+
+    <div class="standard-card__container">
+
+            <div class="standard-card__logo-container">
+                <a href="https://www.newmarket.travel/Details.asp?dlc=11254&amp;pid=167&amp;WS=1&amp;sMnem=AIRHOLS&amp;gMnem=UKIRELA&amp;pCat=SCO&amp;fNPC=GAW" class="standard-card__logo-link js-offer-link " target="_blank">
+                    <img data-sizes="50vw"
+                         data-srcset="http://image1.gardenersworld.com:80/image.png?tag=ac40d712-0cd6-4991-86af-1487460bde24&amp;width=320&amp;quality=80 320w,
+                            http://image1.gardenersworld.com:80/image.png?tag=ac40d712-0cd6-4991-86af-1487460bde24&amp;width=640&amp;quality=80 768w"
+                         src="http://image1.gardenersworld.com:80/image.png?tag=ac40d712-0cd6-4991-86af-1487460bde24&amp;width=200&amp;quality=40"
+                         class="img-responsive lazyload standard-card__logo-image" />
+                </a>
+            </div>
+
+        <h2 class="h2  standard-card__heading">
+            <a href="https://www.newmarket.travel/Details.asp?dlc=11254&amp;pid=167&amp;WS=1&amp;sMnem=AIRHOLS&amp;gMnem=UKIRELA&amp;pCat=SCO&amp;fNPC=GAW" class="js-offer-link " target="_blank">
+                Scottish Highland railways
+            </a>
+        </h2>
+
+        <span class="standard-card__divide "></span>
+
+        <p class="body-copy  card__body-copy">Take in some of the UK’s finest scenery on three of Scotland’s most outstanding railway journeys, from just £449pp for five days. All bookings will receive a free travel wallet and gift.</p>        
+
+            <p class="subheading  standard-card__subheading">Use code: GAW</p>
+
+            <a href="https://www.newmarket.travel/Details.asp?dlc=11254&amp;pid=167&amp;WS=1&amp;sMnem=AIRHOLS&amp;gMnem=UKIRELA&amp;pCat=SCO&amp;fNPC=GAW" class="standard-card__cta-button  js-offer-link " target="_blank">Order now</a>
+        
+    </div>
+</div>
+
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix fluid-container body-background">
+            <div class="layout-checklist__widget">
+                
+
+    <div class="sg-widget">
+
+        <div class="body-container">
+
+            <h2 class="h1 h1--inverted sg-widget__heading">Secret Garden</h2>
+
+            <div class="sg-widget__tagline">
+<small class="small-copy small-copy--inverted">for members of the BBC Gardeners' World Magazine</small>
+
+<div class="subscriber-club subscriber-club--compact subscriber-club--inline">
+    <i class="subscriber-club__logo icon--logo-subscriber-club-white">Subscriber Club</i>
+</div>
+            </div>
+
+            <div class="sg-widget__row clearfix">
+
+                    <div class="col-xs-6 col-sm-3 sg-widget__card-container">
+
+
+
+<div class="card card--inverted sg-widget-card locked-card-keyhole js-locked-overlay">
+
+        <div class="locked-card-keyhole__overlay icon--keyhole-overlay">
+            <div class="locked-card-keyhole__unlock-cta">
+                <p class="h2 h2--inverted locked-card-keyhole__locked-text">This is Secret Garden content</p>
+                <a href="/secret-garden/grow-plants/basil-fennel-and-shiso-herb-pot/" class="plain-button locked-card-keyhole__unlock-button js-subscriber-unlock">Unlock now</a>
+            </div>
+        </div>
+
+    <div class="sg-widget-card__image-container img-container">
+
+        <i class="padlock card__padlock icon--padlock-closed-white">Subscriber only content</i>
+
+            <a href="/secret-garden/grow-plants/basil-fennel-and-shiso-herb-pot/">
+                <img data-sizes="100vw"
+                     data-srcset="http://image1.gardenersworld.com:80/image.jpg?tag=8a63bdbb-260a-4e83-9a51-6b72cc4430a7&amp;width=320&amp;quality=80 320w,
+                    http://image1.gardenersworld.com:80/image.jpg?tag=8a63bdbb-260a-4e83-9a51-6b72cc4430a7&amp;width=768&amp;quality=80 768w,
+                    http://image1.gardenersworld.com:80/image.jpg?tag=8a63bdbb-260a-4e83-9a51-6b72cc4430a7&amp;width=1024&amp;quality=80 1024w"
+                     src="http://image1.gardenersworld.com:80/image.jpg?tag=8a63bdbb-260a-4e83-9a51-6b72cc4430a7&amp;width=200&amp;quality=40"
+                     alt="Basil, fennel and shiso container"
+                     class="img-responsive lazyload" />
+            </a>
+            <noscript>
+                <img src="http://image1.gardenersworld.com:80/image.jpg?tag=8a63bdbb-260a-4e83-9a51-6b72cc4430a7&amp;width=1024&amp;quality=80" alt="Basil, fennel and shiso container" title="Basil, fennel and shiso container" class="img-responsive" />
+            </noscript>
+
+    </div>
+
+    <h3 class="h2 h2--inverted sg-widget-card__heading"><a href="/secret-garden/grow-plants/basil-fennel-and-shiso-herb-pot/">
+            <i class="sg-widget-card__icon-category icon--misc-gallery-white"></i>
+        Basil, fennel and shiso container
+        </a>
+    </h3>
+
+</div>
+                    </div>
+                    <div class="col-xs-6 col-sm-3 sg-widget__card-container">
+
+
+
+<div class="card card--inverted sg-widget-card locked-card-keyhole js-locked-overlay">
+
+        <div class="locked-card-keyhole__overlay icon--keyhole-overlay">
+            <div class="locked-card-keyhole__unlock-cta">
+                <p class="h2 h2--inverted locked-card-keyhole__locked-text">This is Secret Garden content</p>
+                <a href="/secret-garden/plant-inspiration/flower-show-planting-ideas-july/" class="plain-button locked-card-keyhole__unlock-button js-subscriber-unlock">Unlock now</a>
+            </div>
+        </div>
+
+    <div class="sg-widget-card__image-container img-container">
+
+        <i class="padlock card__padlock icon--padlock-closed-white">Subscriber only content</i>
+
+            <a href="/secret-garden/plant-inspiration/flower-show-planting-ideas-july/">
+                <img data-sizes="100vw"
+                     data-srcset="http://image1.gardenersworld.com:80/image.jpg?tag=47fd412f-db39-4b05-8aae-f6de763e0b0d&amp;width=320&amp;quality=80 320w,
+                    http://image1.gardenersworld.com:80/image.jpg?tag=47fd412f-db39-4b05-8aae-f6de763e0b0d&amp;width=768&amp;quality=80 768w,
+                    http://image1.gardenersworld.com:80/image.jpg?tag=47fd412f-db39-4b05-8aae-f6de763e0b0d&amp;width=1024&amp;quality=80 1024w"
+                     src="http://image1.gardenersworld.com:80/image.jpg?tag=47fd412f-db39-4b05-8aae-f6de763e0b0d&amp;width=200&amp;quality=40"
+                     class="img-responsive lazyload" />
+            </a>
+            <noscript>
+                <img src="http://image1.gardenersworld.com:80/image.jpg?tag=47fd412f-db39-4b05-8aae-f6de763e0b0d&amp;width=1024&amp;quality=80" class="img-responsive" />
+            </noscript>
+
+    </div>
+
+    <h3 class="h2 h2--inverted sg-widget-card__heading"><a href="/secret-garden/plant-inspiration/flower-show-planting-ideas-july/">
+            <i class="sg-widget-card__icon-category icon--misc-gallery-white"></i>
+        Flower show planting ideas – July
+        </a>
+    </h3>
+
+</div>
+                    </div>
+                    <div class="col-xs-6 col-sm-3 sg-widget__card-container">
+
+
+
+<div class="card card--inverted sg-widget-card locked-card-keyhole js-locked-overlay">
+
+        <div class="locked-card-keyhole__overlay icon--keyhole-overlay">
+            <div class="locked-card-keyhole__unlock-cta">
+                <p class="h2 h2--inverted locked-card-keyhole__locked-text">This is Secret Garden content</p>
+                <a href="/secret-garden/plant-inspiration/pruning-climbers-for-better-flowers/" class="plain-button locked-card-keyhole__unlock-button js-subscriber-unlock">Unlock now</a>
+            </div>
+        </div>
+
+    <div class="sg-widget-card__image-container img-container">
+
+        <i class="padlock card__padlock icon--padlock-closed-white">Subscriber only content</i>
+
+            <a href="/secret-garden/plant-inspiration/pruning-climbers-for-better-flowers/">
+                <img data-sizes="100vw"
+                     data-srcset="http://image1.gardenersworld.com:80/image.jpg?tag=dddb264b-4c47-441b-aa49-aef922acee1d&amp;width=320&amp;quality=80 320w,
+                    http://image1.gardenersworld.com:80/image.jpg?tag=dddb264b-4c47-441b-aa49-aef922acee1d&amp;width=768&amp;quality=80 768w,
+                    http://image1.gardenersworld.com:80/image.jpg?tag=dddb264b-4c47-441b-aa49-aef922acee1d&amp;width=1024&amp;quality=80 1024w"
+                     src="http://image1.gardenersworld.com:80/image.jpg?tag=dddb264b-4c47-441b-aa49-aef922acee1d&amp;width=200&amp;quality=40"
+                     alt="Deciduous flowering climber wisteria (Wisteria floribunda) flowers blooms. "
+                     class="img-responsive lazyload" />
+            </a>
+            <noscript>
+                <img src="http://image1.gardenersworld.com:80/image.jpg?tag=dddb264b-4c47-441b-aa49-aef922acee1d&amp;width=1024&amp;quality=80" alt="Deciduous flowering climber wisteria (Wisteria floribunda) flowers blooms. " title="Deciduous flowering climber wisteria (Wisteria floribunda) flowers blooms. " class="img-responsive" />
+            </noscript>
+
+    </div>
+
+    <h3 class="h2 h2--inverted sg-widget-card__heading"><a href="/secret-garden/plant-inspiration/pruning-climbers-for-better-flowers/">
+            <i class="sg-widget-card__icon-category icon--misc-gallery-white"></i>
+        Pruning climbers for better flowers
+        </a>
+    </h3>
+
+</div>
+                    </div>
+                    <div class="col-xs-6 col-sm-3 sg-widget__card-container">
+
+
+
+<div class="card card--inverted sg-widget-card locked-card-keyhole js-locked-overlay">
+
+        <div class="locked-card-keyhole__overlay icon--keyhole-overlay">
+            <div class="locked-card-keyhole__unlock-cta">
+                <p class="h2 h2--inverted locked-card-keyhole__locked-text">This is Secret Garden content</p>
+                <a href="/secret-garden/plant-inspiration/garden-wildlife-identifier-ladybird-larvae/" class="plain-button locked-card-keyhole__unlock-button js-subscriber-unlock">Unlock now</a>
+            </div>
+        </div>
+
+    <div class="sg-widget-card__image-container img-container">
+
+        <i class="padlock card__padlock icon--padlock-closed-white">Subscriber only content</i>
+
+            <a href="/secret-garden/plant-inspiration/garden-wildlife-identifier-ladybird-larvae/">
+                <img data-sizes="100vw"
+                     data-srcset="http://image2.gardenersworld.com:80/image.jpg?tag=ca3f5c21-5d2b-4415-b2eb-b05a6febe5ba&amp;width=320&amp;quality=80 320w,
+                    http://image2.gardenersworld.com:80/image.jpg?tag=ca3f5c21-5d2b-4415-b2eb-b05a6febe5ba&amp;width=768&amp;quality=80 768w,
+                    http://image2.gardenersworld.com:80/image.jpg?tag=ca3f5c21-5d2b-4415-b2eb-b05a6febe5ba&amp;width=1024&amp;quality=80 1024w"
+                     src="http://image2.gardenersworld.com:80/image.jpg?tag=ca3f5c21-5d2b-4415-b2eb-b05a6febe5ba&amp;width=200&amp;quality=40"
+                     alt="Ten-spot ladybird larvae"
+                     class="img-responsive lazyload" />
+            </a>
+            <noscript>
+                <img src="http://image2.gardenersworld.com:80/image.jpg?tag=ca3f5c21-5d2b-4415-b2eb-b05a6febe5ba&amp;width=1024&amp;quality=80" alt="Ten-spot ladybird larvae" title="Ten-spot ladybird larvae" class="img-responsive" />
+            </noscript>
+
+    </div>
+
+    <h3 class="h2 h2--inverted sg-widget-card__heading"><a href="/secret-garden/plant-inspiration/garden-wildlife-identifier-ladybird-larvae/">
+            <i class="sg-widget-card__icon-category icon--misc-gallery-white"></i>
+        Garden wildlife identifier: ladybird larvae
+        </a>
+    </h3>
+
+</div>
+                    </div>
+
+            </div>
+
+                <div class="sg-widget__cta-container clearfix">
+
+                    <h4 class="h4 h4--inverted sg-widget__cta-text">Subscriber Club members can enjoy extra new content, every month.</h4>
+
+                    <a href="/secret-garden" class="plain-button sg-widget__button">Find out more</a>
+
+                </div>
+
+        </div>
+    </div>
+
+            </div>
+        </div>
+
+    </div>
+
+</article>
+
+
+
+    </main>
+
+
+
+
+<div class="feedback">
+    <div class="feedback__container container">
+        <h2 class="feedback__text h2 h2--inverted">We'd love to hear what you think</h2>
+        <a href="https://immediateaccount1.typeform.com/to/rJpAzs" target="_blank" class="feedback__button button button--primary">Submit feedback</a>
+    </div>
+</div>
+
+<footer class="site-footer  js-site-footer js-sticky-footer">
+    <div class="site-footer__primary">
+        <div class="site-footer__container">
+            <div class="site-footer__title">
+                Follow gardenersworld.com
+            </div>
+
+            <div class="site-footer__container__social">
+            
+                <a href="https://www.facebook.com/GWmagazine" target="_blank" rel="nofollow" class="site-footer__container__social__icons site-footer__container__social__icons--facebook icon--social-facebook-white">Facebook</a>
+                <a href="http://www.twitter.com/gwmag" target="_blank" rel="nofollow" class="site-footer__container__social__icons site-footer__container__social__icons--twitter icon--social-twitter-white "></a>                
+				<a href="https://www.pinterest.com/gwmag/" target="_blank" rel="nofollow" class="site-footer__container__social__icons site-footer__container__social__icons--pinterest icon--social-pinterest-white">Pinterest</a>
+                
+                
+
+            </div>
+        </div>
+
+        <div class="site-footer__container">
+            <div class="site-footer__title">
+                Quick Links
+            </div>
+
+            <div class="js-ql-container footer-link-container">
+            </div>
+
+        </div>
+
+        <div class="site-footer__container__last">
+            <div class="site-footer__title">
+                Help &amp; Info
+            </div>
+            <div class="js-hi-container footer-link-container">
+            </div>
+        </div>
+
+    </div>
+    <div class="site-footer__secondary container">
+
+        <div class="footer-image-container col-sm-6">
+            <a href="http://www.immediate.co.uk/" target="_blank" class="col-xs-6 footer-image-container__image footer-image-container__image--immediate icon--logo-immediate-colour">Immediate Media</a>        </div>
+
+        <div class="footer-dropdown-container col-sm-6">
+            <div class="js-footer-dropdown footer-dropdown-container__dropdown">
+                <div class="footer-dropdown-button">
+                    <div class="footer-dropdown-container__text">Other Immediate Media Co Sites</div>
+                    <i class="footer-dropdown-container__icon icon--arrow-down-dark"></i>
+                </div>
+                <div class="js-footer-dd-outofview">
+
+                </div>
+            </div>
+        </div>
+
+        <div class="col-xs-12 col-sm-10 footer-copyright-container clearfix">
+            <small class="footer-legal-text">Gardenersworld.com is published by Immediate Media Company Limited under licence from BBC Worldwide who help fund BBC programmes. The Gardeners' World word mark and logo are trademarks of the BBC.</small>
+            <small class="footer-legal-text">&copy; Immediate Media Company Ltd 2016.</small>
+            <p class="footer-version-container">Version 2016.7.12</p>
+        </div>
+
+        <div class="col-xs-12 col-sm-2 footer-image-container footer-image-container--bbc">
+            <div class="footer-image-container__image footer-image-container__image--bbc icon--logo-bbc-colour">BBC</div>
+        </div>
+    </div>
+</footer>
+
+
+    <!-- Default Modal Template -->
+    <section class="remodal js-remodal" data-remodal-id="modalForms">
+        <script type="text/template" class="js-template-tab">
+            <li class="remodal-tabs__button js-remodal-tab">
+                <a href="<%=tabUrl%>" class="remodal-tabs__link js-tab-button" data-tab-index="<%=index%>"><%=tabTitle%></a>
+            </li>
+        </script>
+        <div class="remodal-container">
+            <span data-remodal-action="close" class="js-remodal-close remodal-close icon--misc-close-black"></span>
+            <header class="remodal-header js-remodal-header">
+                <span data-remodal-action="close" class="remodal-close icon--misc-close-white"></span>
+                <ul class="remodal-tabs js-remodal-tabs"></ul>
+            </header>
+            <article class="remodal-content js-remodal-content"></article>
+        </div>
+    </section>
+
+
+    
+    
+
+    <!--sg-animation template-->
+    <script class="js-sg-unlocking-anim" type="text/template">
+        <div class="sg-unlocking__container">
+            <h1 class="h1 sg-unlocking__text">Welcome to <span class="sg-unlocking__text--name">the Secret Garden</span> </h1>
+            <div class="js-unlock-svg sg-unlocking__icon"></div>
+        </div>
+    </script>
+
+        <div id='div-gpt-ad-1x1' class='dfp-ad' data-adSizes='[[[0,0],[1,1]]]' data-adTargets='{"pos":""}'></div>
+
+        <script>
+            window.TrackingData = {"universalAnalytics":{"articleTemplateName":"checklist","accountNo":"UA-26392632-1","memberStatus":"non-member","moduleName":null,"objectName":null,"publishDate":"01-01-0001","memberId":"0","pagePath":"/what-to-do-now/checklist/december/","channelname":"WHATTODONOW","trackerHierarchy":"/what-to-do-now/checklist/december/","skinOriginator":"GWInGWSkin","contentOriginator":"GardenersWorld","domain":"http://www.gardenersworld.com"},"customTracking":null}
+        </script>
+        <!-- Google Tag Manager -->
+        <script>
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || []; w[l].push({
+                    'gtm.start':
+                        new Date().getTime(), event: 'gtm.js'
+                }); var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-P9JL5M');
+        </script>
+        <!-- End Google Tag Manager -->
+        <!-- Google Remarketing -->
+        <script>
+            var google_conversion_id = 992786064; /* same for UAT and live */
+            var google_custom_params = window.google_tag_params; /* undefined but used by the remarketing conversion script */
+            var google_remarketing_only = true;
+        </script>
+        <script async type="text/javascript" src="http://www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
+        <!-- End Google Remarketing -->
+        <noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-P9JL5M" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+
+    
+    <script>
+        /*
+            Here we need to think about an entry point for calling the secondary modules...
+            //
+            loading footer.js below through require as a TEST start point -- TO DO
+        */
+        (function (d, t) {
+            // We'll load the commonViewModel.js before the page view model to speed up the Modernizr work
+            var loadCommonViewModel = function () {
+                require(['view-model/commonViewModel'], function (commonViewModel) {
+                    commonViewModel.init({
+                        cdnUrl: '//s3.gardenersworld.com',
+                        bust: '2016.7.12'
+                    });
+                    
+    require(['view-model/checklistViewModel'], function (checklistViewModel) {
+        checklistViewModel.init();
+    });
+
+                });
+            };
+            var g = d.createElement(t),
+                s = d.getElementsByTagName(t)[0];
+            g.async = true;
+            g.done = false;
+            g.src = '//s3.gardenersworld.com/Content/scripts/require-bundle.js?bust=2016.7.12';
+            g.onload = g.onreadystatechange = function () {
+                var rs = this.readyState;
+                if (!g.done && (!rs || rs === 'loaded' || rs === 'complete')) {
+                    g.done = true;
+                    loadCommonViewModel();
+                }
+            };
+            s.parentNode.insertBefore(g, s);
+        }(document, 'script'));
+    </script>
+
+</body>
+
+
+
+</html>
