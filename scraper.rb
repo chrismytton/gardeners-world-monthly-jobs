@@ -10,10 +10,11 @@ require 'open-uri'
   warn "Fetching: #{url}"
   page = Nokogiri::HTML(open(url))
   page.css('.checklist').each do |checklist|
+    section = checklist.css('.checklist__title').text.strip
     checklist.css('.checklist__item').each do |job|
       data = {
         month: month_number,
-        section: checklist[:id],
+        section: section,
         job: job.text.strip
       }
       ScraperWiki.save_sqlite([:month, :section, :job], data)
