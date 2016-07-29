@@ -13,7 +13,7 @@ require 'open-uri'
     section = checklist.css('.checklist__title').text.strip
     checklist.css('.checklist__item').each do |job|
       data = {
-        month: month_number,
+        month: month,
         section: section,
         job: job.text.strip
       }
