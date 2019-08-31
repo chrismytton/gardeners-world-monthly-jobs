@@ -12,7 +12,7 @@ jobs:
     - name: Set up Ruby
       uses: actions/setup-ruby@v1
       with:
-        ruby-version: 2.2.3
+        ruby-version: 2.6.x
     - name: Run the scraper
       run: |
         gem install bundler
