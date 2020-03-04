@@ -7,15 +7,28 @@ jobs:
 
     runs-on: ubuntu-latest
 
+    container:
+      image: openaustralia/buildstep:latest
+
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v2
     - name: Set up Ruby
       uses: actions/setup-ruby@v1
       with:
         ruby-version: 2.6.x
-    - name: Run the scraper
+    - name: Setup Bundler cache
+      uses: actions/cache@v1
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
+    - name: Install dependencies
       run: |
         gem install bundler
+        bundle config path vendor/bundle
         bundle install --jobs 4 --retry 3
+    - name: Run the scraper
+      run: |
         bundle exec ruby scraper.rb
         file data.sqlite
