@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
 
     container:
-      image: openaustralia/buildstep:latest
+      image: ruby:2.6
 
     steps:
     - uses: actions/checkout@v2
