@@ -1,21 +1,21 @@
-name: Scraper
+name: API
 
 on: [push]
 
 jobs:
-  scrape:
+  build:
 
     runs-on: ubuntu-latest
 
-    container:
-      image: openaustralia/buildstep:latest
-
     steps:
+
     - uses: actions/checkout@v2
+
     - name: Set up Ruby
       uses: actions/setup-ruby@v1
       with:
-        ruby-version: 2.6.x
+        ruby-version: 2.7.x
+
     - name: Setup Bundler cache
       uses: actions/cache@v1
       with:
@@ -23,12 +23,21 @@ jobs:
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
         restore-keys: |
           ${{ runner.os }}-gems-
+
     - name: Install dependencies
       run: |
         gem install bundler
         bundle config path vendor/bundle
         bundle install --jobs 4 --retry 3
-    - name: Run the scraper
+
+    - name: Build the API
+      run: bin/build-api
+
+    - name: Commit files
+      if: github.ref == 'refs/heads/master'
       run: |
-        bundle exec ruby scraper.rb
-        file data.sqlite
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add docs
+        git diff --cached --exit-code || git commit -m "Rebuild API"
+        git push origin HEAD:master

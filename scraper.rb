@@ -1,23 +1,30 @@
-require 'bundler'
-Bundler.require
-OpenURI::Cache.cache_path = 'archive'
+require 'date'
+require 'nokogiri'
+require 'net/http'
+require 'json'
 
-require 'open-uri'
-
-(1..12).each do |month_number|
+urls = (1..12).map do |month_number|
   month = Date::MONTHNAMES[month_number]
-  url = "http://www.gardenersworld.com/what-to-do-now/checklist/#{month.downcase}/"
+  [month, "https://www.gardenersworld.com/what-to-do-now-#{month.downcase}/"]
+end
+
+out = {}
+
+urls.each do |month, url|
   warn "Fetching: #{url}"
-  page = Nokogiri::HTML(open(url))
-  page.css('.checklist').each do |checklist|
-    section = checklist.css('.checklist__title').text.strip
-    checklist.css('.checklist__item').each do |job|
-      data = {
-        month: month,
-        section: section,
-        job: job.text.strip
-      }
-      ScraperWiki.save_sqlite([:month, :section, :job], data)
+  uri = URI(url)
+
+  Net::HTTP.start(uri.host, uri.port, use_ssl: true) do |http|
+    request = Net::HTTP::Get.new uri
+    response = http.request request # Net::HTTPResponse object
+    page = Nokogiri::HTML(response.body)
+    out[month] ||= {}
+    page.css('.container > .editor-content').drop(2).take(4).flat_map do |checklist|
+      section = checklist.css('h4').text.strip
+      tasks = checklist.css('li').map(&:text).map(&:strip)
+      out[month][section] = tasks
     end
   end
 end
+
+puts JSON.pretty_generate(out)
