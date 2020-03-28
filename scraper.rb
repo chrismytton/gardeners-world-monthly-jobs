@@ -19,7 +19,7 @@ urls.each do |month, url|
     response = http.request request # Net::HTTPResponse object
     page = Nokogiri::HTML(response.body)
     out[month] ||= {}
-    page.css('.container > .editor-content').drop(2).take(4).flat_map do |checklist|
+    page.css('.container > .editor-content').drop(2).take(4).each do |checklist|
       section = checklist.css('h4').text.strip
       tasks = checklist.css('li').map(&:text).map(&:strip)
       out[month][section] = tasks
