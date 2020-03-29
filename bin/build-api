@@ -3,4 +3,4 @@
 set -eo pipefail
 
 mkdir -p docs
-bundle exec ruby scraper.rb > docs/jobs.json
+bin/jobs_json > docs/jobs.json
