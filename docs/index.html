@@ -16,6 +16,18 @@
         color: #333;
         line-height: 1.5;
       }
+      pre {
+        overflow: scroll;
+        background: #eee;
+        padding: 10px;
+      }
+      code {
+        background: #eee;
+        padding: 3px;
+      }
+      pre > code {
+        padding: 0;
+      }
     </style>
   </head>
   <body>
@@ -26,12 +38,16 @@
     <p>API of what to do in the garden.</p>
     <p>The API returns an object
     where the keys are the month names, <code>January</code> through to
-    <code>December</code>. Each key returns an object with 3 keys,
+    <code>December</code>.</p>
+    <p>Each month key returns an object with 3 keys,
     <code>Flowers</code>, <code>Fruit and veg</code>, <code>Greenhouse</code>
     and <code>Garden maintenance</code> which correspond to different areas of
-    the garden. These keys returns arrays of strings. Each string is a single
+    the garden.</p>
+    <p>These garden area keys returns arrays of strings. Each string is a single
     job that needs doing in the current month for the corresponding area of the
     garden. </p>
+
+    <h3>Example</h3>
 
     <pre><code>{
   "January": {
@@ -60,6 +76,8 @@
   }
 }
 </code></pre>
+
+<p><a href="jobs.json">jobs.json</a></p>
 
   </body>
 </html>
