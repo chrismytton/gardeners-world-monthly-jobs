@@ -11,6 +11,10 @@ The API is a single static JSON file which is hosted on GitHub Pages.
 
 There is a GitHub Actions workflow which rebuilds the API once a day.
 
+I use the API to generate a monthly checklist on my personal Trello board. You
+can see the code for that in
+[chrismytton/trello-garden-jobs](https://github.com/chrismytton/trello-garden-jobs).
+
 ## Development
 
 The scraper is written in Ruby, so you'll need a recent version of that
