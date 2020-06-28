@@ -1,4 +1,4 @@
-# Gardener's World monthly jobs :seedling:
+# :seedling: Gardener's World monthly jobs
 
 JSON API for the "What to do now" section of the
 [Gardener's World](https://www.gardenersworld.com/) website.
