@@ -7,13 +7,10 @@ require 'nokogiri'
 require 'open-uri'
 require 'json'
 
-urls = Date::MONTHNAMES.drop(1).map do |month|
-  [month, "https://www.gardenersworld.com/what-to-do-now-#{month.downcase}/"]
-end
-
 out = {}
 
-urls.each do |month, url|
+Date::MONTHNAMES.drop(1).each do |month|
+  url = "https://www.gardenersworld.com/what-to-do-now-#{month.downcase}/"
   warn "Fetching: #{url}"
   page = Nokogiri::HTML(URI.open(url).read)
   out[month] ||= {}
