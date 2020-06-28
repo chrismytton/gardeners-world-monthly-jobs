@@ -7,8 +7,7 @@ require 'nokogiri'
 require 'open-uri'
 require 'json'
 
-urls = (1..12).map do |month_number|
-  month = Date::MONTHNAMES[month_number]
+urls = Date::MONTHNAMES.drop(1).map do |month|
   [month, "https://www.gardenersworld.com/what-to-do-now-#{month.downcase}/"]
 end
 
