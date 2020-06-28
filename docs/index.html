@@ -1,2 +1,66 @@
-<h1>Gardener's World monthly jobs</h1>
-<a href="jobs.json">JSON API</a>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="JSON API for the “What to do now” section of the Gardener’s World website.">
+    <meta name="author" content="Chris Mytton">
+    <title>Gardener's World monthly jobs API</title>
+    <style>
+      body {
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 10px;
+        font-family: Helvetica, Arial, sans-serif;
+        background-color: #fff;
+        color: #333;
+        line-height: 1.5;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Gardener's World monthly jobs API</h1>
+
+    <h2><a href="jobs.json">jobs.json</a></h2>
+
+    <p>API of what to do in the garden.</p>
+    <p>The API returns an object
+    where the keys are the month names, <code>January</code> through to
+    <code>December</code>. Each key returns an object with 3 keys,
+    <code>Flowers</code>, <code>Fruit and veg</code>, <code>Greenhouse</code>
+    and <code>Garden maintenance</code> which correspond to different areas of
+    the garden. These keys returns arrays of strings. Each string is a single
+    job that needs doing in the current month for the corresponding area of the
+    garden. </p>
+
+    <pre><code>{
+  "January": {
+    "Flowers": [
+      "Plant bare-root roses, shrubs, hedging and ornamental trees, as long as the ground isn't frozen",
+      "Take root cuttings of fleshy-rooted perennials such as oriental poppies, acanthus and verbascums",
+      "Establish new colonies of snowdrops and hellebores by buying plants in flower, so you can choose the prettiest blooms",
+      "..."
+    ],
+    "Fruit and veg": [
+      "Winter-prune apple and pear trees to remove any dead, damaged, congested and diseased branches",
+      "Sort out your seeds, throwing away empty or out-of-date packets and noting down any to buy for the coming season",
+      "Plan this year's crop rotation to ensure you grow each type of crop in a different bed to previous years",
+      "..."
+    ]
+  },
+  "February": {
+    "Flowers": [
+      "Cut down deciduous ornamental grasses left standing over winter, before fresh shoots appear",
+      "..."
+    ],
+    "Fruit and veg": [
+      "Finish winter-pruning fruit trees and soft fruits, including apples, autumn raspberries and blackcurrants",
+      "..."
+    ]
+  }
+}
+</code></pre>
+
+  </body>
+</html>
+
