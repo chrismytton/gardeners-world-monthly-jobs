@@ -7,7 +7,7 @@ JSON API for the "What to do now" section of the
 
 The API is a single static JSON file which is hosted on GitHub Pages.
 
-<https://www.chrismytton.uk/gardeners-world-monthly-jobs/jobs.json>
+<https://www.chrismytton.com/gardeners-world-monthly-jobs/jobs.json>
 
 There is a GitHub Actions workflow which rebuilds the API once a day.
 
